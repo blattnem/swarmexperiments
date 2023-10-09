@@ -11,3 +11,5 @@ The script demonstrates a simple 2D grid navigation problem solved through a Gen
 
 Details are described in specific swarm README files.
 
+Script have been tested with Python 3.11.x version.
+
