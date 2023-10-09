@@ -4,7 +4,7 @@
 
 This script provides an implementation of the PSO algorithm with a teleportation mechanism. It offers flexibility to set various parameters and visualizes the optimization process in real-time.
 
-The script utilizes the PSO algorithm to minimize a function called `five_minima`, which is represented in a two-dimensional space. This guide outlines the features, classes, methods, and parameters used in the script.
+It utilizes the PSO algorithm to minimize a function called `five_minima`, which is represented in a two-dimensional space. This guide outlines the features, classes, methods, and parameters used in the script.
 
 ## Dependencies
 
