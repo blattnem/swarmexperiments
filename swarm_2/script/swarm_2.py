@@ -163,7 +163,6 @@ def pressure(nb, x_buffer, y_buffer, x_velocity_buffer, y_velocity_buffer, x, y,
 
 if PYGAME:
 
-
     # initialize pygame
     pygame.init()
 
