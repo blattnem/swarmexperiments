@@ -197,7 +197,7 @@ end = (4, 4)
 
 # Create a new Gene Regulatory Network
 actions = ['up', 'down', 'left', 'right']
-grn = GeneRegulatoryNetwork(actions,epsilon=0.3)
+grn = GeneRegulatoryNetwork(actions,epsilon=0.5)
 
 # Add genes for each position on the grid
 for i in range(GRID_SIZE):

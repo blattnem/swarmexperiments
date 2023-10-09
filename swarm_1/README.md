@@ -16,7 +16,7 @@ The script utilizes the PSO algorithm to minimize a function called `five_minima
 The function to be minimized, `five_minima`, is a 2D function defined as follows:
 
 $$
-\text{five\_minima}(x, y) = (x^2 - 10x + y^2 - 10y + 20) \times \sin(x) \times \sin(y) - 2 \times \exp(-((x-2)^2 + (y-2)^2))
+f(x,y)=(x^2 - 10x + y^2 - 10y + 20) \times \sin(x) \times \sin(y) - 2 \times \exp(-((x-2)^2 + (y-2)^2))
 $$
 
 ## Classes
